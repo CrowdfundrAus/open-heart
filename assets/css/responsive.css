@@ -1,0 +1,277 @@
+/* Large desktop */
+@media (min-width: 1920px) { 
+    #header .jw-logo-bg{
+        width:35%;
+    }
+}
+/* Large desktop */
+@media (max-width: 1200px) { 
+    .theme-boxed {
+        width:1000px;
+    }
+    #header .jw-logo-bg{
+        width: 15%;
+    }
+    ul.sf-menu > li > a{
+        margin: 0 15px;
+    }
+}
+/* Medium-Large desktop */
+@media only screen and (min-width: 1260px) { 
+    .theme-boxed {
+        width:1260px;
+    }
+}
+@media (min-width: 980px) {
+    #mobile-menu{
+        display: none !important;
+    }
+
+}
+@media (min-width: 979px) and (max-width: 1190px) { 
+    ul.sf-menu > li > a{
+        margin: 0 10px;
+    }
+	.comment-form-author p input, .comment-form-author p.comment-form-email input{
+	margin-bottom:0px !important;
+	width: 293px;
+}
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+    .jw-top-bar{
+        height: auto;
+    }
+    .theme-boxed {
+        width:auto;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none;
+    }
+    .show-mobile-menu {
+        margin-top: 40px;
+        background: none;
+    }
+    #header.stuck .show-mobile-menu{
+        margin-top: 14px;
+    }
+    .show-mobile-menu .mobile-menu-text{
+        font-size: 0;
+    }
+    .show-mobile-menu .mobile-menu-icon{
+        margin-right: 0;
+    }
+    article.loop ul.loop-meta li.category{
+        display:none;
+    }
+    .related_causes article.jw_cause{
+        width: 226px;
+    }
+    header#header{
+        background: #2dcb73;
+    }
+	.jw_cause .span3{
+		width:50% !important;
+	}
+	.jw-pricing-four {
+	width:45% !important;
+	}
+	.team-member{
+		width:29.9% !important;
+	}
+	.team-member .loop-image img{
+		width:100% !important;
+	}
+	.jw-features .jw-service-box {
+		width:50% !important;
+		margin:0px !important;
+		margin-bottom:30px !important;
+	}
+	.jw-element p {
+		font-size: 13px !important;
+	}
+	.custom-team-content {
+		clear: both;
+		padding-top: 0;
+		width: 100%;
+	}
+	.custom-team-content .custom-content-1st, .custom-team-content .custom-content-2nd, .custom-team-content .custom-content-3rd {
+		margin-bottom: 20px;
+	}
+	.jw-pricing-bottom ul li {
+    border-bottom: 1px solid #ececec;
+    color: #888888;
+    font-size: 13px;
+    padding: 10px 15px;
+	}
+	.comment-form-author p input, .comment-form-author p.comment-form-email input{
+	margin-bottom:0px !important;
+	width: 221px;
+}
+	
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 500px) and (max-width: 767px) {
+    article.jw_cause,.team-member.span3{
+        width: 100%;
+    }
+    .jw_cause .isotope-container,.jw-our-team{
+        margin-left: -20px;
+    }
+    .jw-our-team{
+        margin: 0 -10px;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+    .theme-boxed {
+        width:auto;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none;
+    }
+    body,.jw-our-team{
+        padding: 0;
+        margin:0 !important;
+    }
+    .list_carousel li,.member-image img{
+        width: 100%;
+    }
+    #main .comment-block .comment-block{
+        margin-left: 0;
+        padding: 0;
+    }
+    .jw-pricing-col{
+        float:none;
+        display:block;
+        width:100% !important;
+    }
+    .callout-text {
+        padding-right: 0px !important;
+    }
+    .mobile-menu-icon span{
+        height: 5px !important;
+		background: none repeat scroll 0 0 #fff;
+    }
+    .show-mobile-menu .mobile-menu-icon{
+        margin-top: 12px;
+    }
+    .span9 .jw-callout.with-button .callout-text{
+        padding-right: 0;
+    }
+    .callout-text>a.btn{
+        position: relative;
+        margin:0;
+    }
+    #main .container{
+        padding: 0 10px;
+    }
+    .jw-breadcrumb,.likeit,
+    article.loop ul.loop-meta li.category,.jw-top-bar-info{
+        display: none;
+    }
+    #header .jw-logo{
+        text-align: center;
+    }
+    .loop-media .link-text{
+        font-size: 18px;        
+    }
+    .loop-media .link-content{
+        padding: 20px 20px;
+    }
+    p.form-submit, .comment-form-author, .comment-form-comment{
+        float: none;
+        width: 100%;
+    }
+    .loop-meta.tag{
+        padding-right: 0;
+    }
+    .jw_post_sharebox{
+        position: static;
+        margin-top: 20px;
+    }
+    .list_carousel {
+        margin: 0 -10px !important;
+    }
+    .jw-404-error{
+        width: 310px;
+    }
+    .jw-404-search-container, .jw-coming-soon-content{
+        width: auto;
+        padding: 30px 0;
+    }
+    .error4button, .jw-cs-container input[type="submit"]{
+        margin-top: 10px;
+    }
+    #header .jw-logo{
+        width: 100%;
+        padding: 0;
+    }
+    .loop-image .image-overlay,.loop-image:hover .image-overlay, .slide-item:hover .image-overlay{
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+	
+	ul.jwhistory .span6{
+	float:none !important;
+	width:100% !important;
+	box-shadow:none !important;
+	border:none !important;
+	}
+	ul.jwhistory .span6 .history-content{
+	height:auto !important;
+	width:85% !important;
+	}
+	.historydividerbox{
+		display:none !important;
+	}
+	.jw-filter ul li {
+    line-height: 3;
+	}
+	.jw_cause .span3 {
+		width:88% !important;
+	}
+	input[type="text"], input[type="password"], input[type="email"], textarea, select {
+		
+	
+	}
+	
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .theme-boxed {
+        width:auto;
+    }
+    article.loop ul.loop-meta li, .jw-coming-soon>.sep {
+        display: none;
+    }
+    article.loop ul.loop-meta {
+        border-color: transparent;
+    }
+    .jw-carousel-twitter .carousel-arrow .carousel-prev{
+        left:5px;
+    }
+    .jw-carousel-twitter .carousel-arrow .carousel-next{
+        right:5px;
+    }
+    .page-template-template-coming_soon-php #main {
+        padding: 50px 0;
+    }
+    .jw-coming-soon .days, .jw-coming-soon .hours, .jw-coming-soon .minutes, .jw-coming-soon .seconds {
+        margin: 0 5px 5px 0;
+    }
+	.jw-milestones-box.span3 {
+		margin-top:0px !important
+	}
+	.cinfo {
+    line-height: 32px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+}

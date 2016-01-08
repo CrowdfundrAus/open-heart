@@ -1,0 +1,1890 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatco v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-13 09:44:04+0000\n"
+"Last-Translator: designinvento <designinvento@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: search.php:16
+#@ designinvento
+msgid "For best search results, mind the following suggestions:"
+msgstr ""
+
+#: 404.php:14
+#: search.php:18
+#@ designinvento
+msgid "Always double check your spelling."
+msgstr ""
+
+#: 404.php:15
+#: search.php:19
+#@ designinvento
+msgid "Try similar keywords, for example: tablet instead of laptop."
+msgstr ""
+
+#: 404.php:16
+#: search.php:20
+#@ designinvento
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: sidebar.php:32
+#@ designinvento
+msgid "Archives"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:459
+#@ default
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ default
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ default
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ default
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: comments.php:21
+#@ designinvento
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+#@ designinvento
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:28
+#@ designinvento
+msgid "Responses to"
+msgstr ""
+
+#: comments.php:43
+#@ designinvento
+msgid "Comment"
+msgstr ""
+
+#: footer-comingsoon.php:29
+#: footer.php:49
+#@ designinvento
+msgid "Scroll to top"
+msgstr ""
+
+#: inc/breadcrumbs.php:13
+#@ designinvento
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:14
+#, php-format
+#@ designinvento
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/breadcrumbs.php:15
+#, php-format
+#@ designinvento
+msgid "Search Results for \"%s\" query"
+msgstr ""
+
+#: inc/breadcrumbs.php:16
+#, php-format
+#@ designinvento
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/breadcrumbs.php:17
+#, php-format
+#@ designinvento
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:18
+#@ designinvento
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:9
+#: inc/breadcrumbs.php:132
+#@ designinvento
+msgid "Page"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:322
+#@ designinvento
+msgid "ON"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:322
+#@ designinvento
+msgid "OFF"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:443
+#@ cmeta_pagebuilder_td
+msgid "Page Builder"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:600
+#@ designinvento
+msgid "Template name is allready exist. Please insert the template name and try again"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:606
+#@ designinvento
+msgid "Template added"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:624
+#: inc/pagebuilder/pagebuilder.php:641
+#@ designinvento
+msgid "Template name not exsist"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:164
+#: inc/plugins/install-plugin.php:84
+#@ tgmpa
+#@ designinvento
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:165
+#: inc/plugins/install-plugin.php:85
+#@ tgmpa
+#@ designinvento
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:166
+#: inc/plugins/install-plugin.php:86
+#, php-format
+#@ tgmpa
+#@ designinvento
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:167
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:168
+#: inc/plugins/install-plugin.php:88
+#, php-format
+#@ designinvento
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:169
+#: inc/plugins/install-plugin.php:89
+#, php-format
+#@ designinvento
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:170
+#: inc/plugins/install-plugin.php:90
+#, php-format
+#@ designinvento
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:171
+#: inc/plugins/install-plugin.php:91
+#, php-format
+#@ designinvento
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:172
+#: inc/plugins/install-plugin.php:92
+#, php-format
+#@ designinvento
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:173
+#: inc/plugins/install-plugin.php:93
+#, php-format
+#@ designinvento
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:174
+#: inc/plugins/install-plugin.php:94
+#, php-format
+#@ designinvento
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:175
+#: inc/plugins/install-plugin.php:95
+#, php-format
+#@ designinvento
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:176
+#: inc/plugins/install-plugin.php:96
+#@ designinvento
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:177
+#: inc/plugins/install-plugin.php:97
+#@ designinvento
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:178
+#: inc/plugins/install-plugin.php:98
+#@ tgmpa
+#@ designinvento
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:180
+#: inc/plugins/class-tgm-plugin-activation.php:1849
+#: inc/plugins/install-plugin.php:99
+#@ tgmpa
+#@ designinvento
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:182
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2061
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:183
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1094
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1099
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1102
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1106
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1109
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1109
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1112
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1114
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1284
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1300
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1301
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1302
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1303
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1321
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1322
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/plugins/class-tgm-plugin-activation.php:1547
+#: inc/plugins/class-tgm-plugin-activation.php:181
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1832
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1833
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1834
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1835
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1836
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1837
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1848
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1958
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1959
+#: inc/plugins/class-tgm-plugin-activation.php:1968
+#: woocommerce/jw_woocommerce.php:163
+#@ tgmpa
+#@ designinvento
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1959
+#: inc/plugins/class-tgm-plugin-activation.php:1968
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1965
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1966
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1968
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1969
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1970
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/install-plugin.php:87
+#@ designinvento
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/install-plugin.php:100
+#, php-format
+#@ designinvento
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/post-format.php:13
+#: inc/post-type/post-options.php:210
+#@ framework
+#@ designinvento
+msgid "Upload images"
+msgstr ""
+
+#: inc/post-format.php:14
+#: inc/post-type/post-options.php:211
+#@ framework
+#@ designinvento
+msgid "Select the images that should be upload to this gallery"
+msgstr ""
+
+#: inc/post-format.php:18
+#: inc/post-type/post-options.php:204
+#@ framework
+#@ designinvento
+msgid "Image height"
+msgstr ""
+
+#: inc/post-format.php:19
+#@ framework
+msgid "Slider height"
+msgstr ""
+
+#: inc/post-format.php:26
+#@ framework
+msgid "MP3 File URL"
+msgstr ""
+
+#: inc/post-format.php:27
+#@ framework
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: inc/post-format.php:32
+#: inc/post-format.php:53
+#: inc/post-type/post-options.php:222
+#@ framework
+#@ designinvento
+msgid "Embeded Code"
+msgstr ""
+
+#: inc/post-format.php:33
+#@ framework
+msgid "The embed code"
+msgstr ""
+
+#: inc/post-format.php:41
+#@ framework
+msgid "M4V File URL"
+msgstr ""
+
+#: inc/post-format.php:42
+#@ framework
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: inc/post-format.php:47
+#@ framework
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: inc/post-format.php:48
+#@ framework
+msgid "The preivew image."
+msgstr ""
+
+#: inc/post-format.php:54
+#: inc/post-type/post-options.php:223
+#@ framework
+#@ designinvento
+msgid "If you're not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: inc/post-format.php:62
+#@ framework
+msgid "The Quote"
+msgstr ""
+
+#: inc/post-format.php:63
+#@ framework
+msgid "Write your quote in this field."
+msgstr ""
+
+#: inc/post-format.php:68
+#@ framework
+msgid "The Author"
+msgstr ""
+
+#: inc/post-format.php:69
+#@ framework
+msgid "Write your author name of this."
+msgstr ""
+
+#: inc/post-format.php:77
+#: inc/post-format.php:86
+#@ framework
+msgid "The URL"
+msgstr ""
+
+#: inc/post-format.php:78
+#@ framework
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: inc/post-format.php:87
+#@ framework
+msgid "Insert the status URL."
+msgstr ""
+
+#: inc/post-format.php:103
+#@ designinvento
+msgid "Quote Settings"
+msgstr ""
+
+#: inc/post-format.php:105
+#@ designinvento
+msgid "Link Settings"
+msgstr ""
+
+#: inc/post-format.php:106
+#@ designinvento
+msgid "Audio Settings"
+msgstr ""
+
+#: inc/post-format.php:107
+#@ designinvento
+msgid "Video Settings"
+msgstr ""
+
+#: inc/post-format.php:108
+#@ designinvento
+msgid "Status Settings"
+msgstr ""
+
+#: inc/post-type/metaboxes.php:69
+#@ designinvento
+msgid "Insert image"
+msgstr ""
+
+#: inc/post-type/metaboxes.php:184
+#@ designinvento
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/post-type/metaboxes.php:184
+#@ designinvento
+msgid "Upload Images"
+msgstr ""
+
+#: inc/post-type/post-options.php:41
+#@ designinvento
+msgid "Post Author Show?"
+msgstr ""
+
+#: inc/post-type/post-options.php:42
+#: inc/post-type/post-options.php:48
+#: inc/post-type/post-options.php:60
+#: inc/post-type/post-options.php:113
+#@ designinvento
+msgid "Default setting will take from theme options."
+msgstr ""
+
+#: inc/post-type/post-options.php:47
+#@ designinvento
+msgid "Featured Media Show?"
+msgstr ""
+
+#: inc/post-type/post-options.php:53
+#@ designinvento
+msgid "Featured Image Height?"
+msgstr ""
+
+#: inc/post-type/post-options.php:54
+#@ designinvento
+msgid "Image height (px)."
+msgstr ""
+
+#: inc/post-type/post-options.php:59
+#@ designinvento
+msgid "Breadcrumbs on this page?"
+msgstr ""
+
+#: inc/post-type/post-options.php:65
+#@ designinvento
+msgid "Choose Post Layout?"
+msgstr ""
+
+#: inc/post-type/post-options.php:71
+#@ designinvento
+msgid "Choose Sidebar ?"
+msgstr ""
+
+#: inc/post-type/post-options.php:93
+#@ designinvento
+msgid "All of your created sliders will be included here."
+msgstr ""
+
+#: inc/post-type/post-options.php:97
+#: inc/post-type/post-options.php:189
+#@ designinvento
+msgid "Sub Title"
+msgstr ""
+
+#: inc/post-type/post-options.php:112
+#@ designinvento
+msgid "Breadcrumbs on this post?"
+msgstr ""
+
+#: inc/post-type/post-options.php:167
+#@ designinvento
+msgid "Page Layout ?"
+msgstr ""
+
+#: inc/post-type/post-options.php:168
+#@ designinvento
+msgid "Layout-aa songono uu"
+msgstr ""
+
+#: inc/post-type/post-options.php:174
+#@ designinvento
+msgid "Sidebar ?"
+msgstr ""
+
+#: inc/post-type/post-options.php:175
+#@ designinvento
+msgid "Sidebar-aa songono uu"
+msgstr ""
+
+#: inc/post-type/post-options.php:199
+#: inc/post-type/post-options.php:200
+#@ designinvento
+msgid "Preview url"
+msgstr ""
+
+#: inc/post-type/post-options.php:205
+#@ designinvento
+msgid "Image height on single page"
+msgstr ""
+
+#: inc/post-type/post-options.php:215
+#@ designinvento
+msgid "Gallery height"
+msgstr ""
+
+#: inc/post-type/post-options.php:216
+#@ designinvento
+msgid "Gallery height on single page"
+msgstr ""
+
+#: inc/post-type/post-options.php:250
+#: inc/post-type/post-type.php:212
+#: inc/post-type/post-type.php:262
+#: inc/theme_functions.php:687
+#@ designinvento
+msgid "Name"
+msgstr ""
+
+#: inc/post-type/post-options.php:255
+#@ designinvento
+msgid "Company name"
+msgstr ""
+
+#: inc/post-type/post-options.php:260
+#@ designinvento
+msgid "Link to url"
+msgstr ""
+
+#: inc/post-type/post-options.php:272
+#@ designinvento
+msgid "Position"
+msgstr ""
+
+#: inc/post-type/post-options.php:273
+#@ designinvento
+msgid "Member position"
+msgstr ""
+
+#: inc/post-type/post-options.php:282
+#: inc/post-type/post-options.php:283
+#@ designinvento
+msgid "Facebook url"
+msgstr ""
+
+#: inc/post-type/post-options.php:297
+#: inc/post-type/post-options.php:298
+#@ designinvento
+msgid "Linkedin url"
+msgstr ""
+
+#: inc/post-type/post-options.php:292
+#: inc/post-type/post-options.php:293
+#@ designinvento
+msgid "Twitter url"
+msgstr ""
+
+#: inc/post-type/post-options.php:309
+#@ designinvento
+msgid "Partner Link to URL"
+msgstr ""
+
+#: inc/post-type/post-options.php:326
+#@ designinvento
+msgid "Price"
+msgstr ""
+
+#: inc/post-type/post-options.php:327
+#@ designinvento
+msgid "Please insert with $ symbol."
+msgstr ""
+
+#: inc/post-type/post-options.php:337
+#@ designinvento
+msgid "Price Time"
+msgstr ""
+
+#: inc/post-type/post-options.php:338
+#@ designinvento
+msgid "Price time option. Example: Month, Day, Year etc."
+msgstr ""
+
+#: inc/post-type/post-options.php:343
+#@ designinvento
+msgid "Button text"
+msgstr ""
+
+#: inc/post-type/post-options.php:348
+#@ designinvento
+msgid "Button URL"
+msgstr ""
+
+#: inc/post-type/post-options.php:359
+#@ designinvento
+msgid "Post settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:367
+#@ designinvento
+msgid "Page settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:376
+#@ designinvento
+msgid "Portfolio settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:377
+#@ designinvento
+msgid "Portfolio gallery settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:378
+#@ designinvento
+msgid "Portfolio video settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:386
+#@ designinvento
+msgid "Testimonial settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:394
+#@ designinvento
+msgid "Team settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:402
+#@ designinvento
+msgid "Partner settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:410
+#@ designinvento
+msgid "Price settings"
+msgstr ""
+
+#: inc/post-type/post-type.php:14
+#@ waves
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: inc/post-type/post-type.php:15
+#@ waves
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: inc/post-type/post-type.php:16
+#@ waves
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: inc/post-type/post-type.php:17
+#@ waves
+msgid "Saving..."
+msgstr ""
+
+#: inc/theme_functions.php:229
+#@ designinvento
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post-type/post-type.php:77
+#: inc/post-type/post-type.php:127
+#: inc/post-type/post-type.php:177
+#: inc/post-type/post-type.php:228
+#: inc/post-type/post-type.php:279
+#@ designinvento
+msgid "Add New"
+msgstr ""
+
+#: inc/post-type/post-type.php:78
+#@ designinvento
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/post-type/post-type.php:79
+#@ designinvento
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/post-type/post-type.php:80
+#@ designinvento
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/post-type/post-type.php:81
+#@ designinvento
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/post-type/post-type.php:82
+#@ designinvento
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/post-type/post-type.php:83
+#@ designinvento
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/post-type/post-type.php:84
+#@ designinvento
+msgid "No Portfolio found"
+msgstr ""
+
+#: inc/post-type/post-type.php:85
+#@ designinvento
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: inc/post-type/post-type.php:86
+#@ designinvento
+msgid "Portfolios"
+msgstr ""
+
+#: inc/post-type/post-type.php:105
+#: inc/post-type/post-type.php:112
+#: inc/post-type/post-type.php:155
+#: inc/post-type/post-type.php:162
+#: inc/post-type/post-type.php:205
+#: inc/post-type/post-type.php:213
+#: inc/post-type/post-type.php:256
+#: inc/post-type/post-type.php:263
+#: inc/post-type/post-type.php:307
+#: inc/post-type/post-type.php:315
+#@ designinvento
+msgid "Categories"
+msgstr ""
+
+#: inc/post-type/post-type.php:105
+#@ designinvento
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/post-type/post-type.php:111
+#@ designinvento
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/post-type/post-type.php:113
+#: inc/post-type/post-type.php:163
+#: inc/post-type/post-type.php:214
+#: inc/post-type/post-type.php:264
+#: inc/post-type/post-type.php:316
+#@ designinvento
+msgid "Date"
+msgstr ""
+
+#: inc/post-type/post-type.php:125
+#: inc/post-type/post-type.php:136
+#@ designinvento
+msgid "Pricing Tables"
+msgstr ""
+
+#: inc/post-type/post-type.php:126
+#@ designinvento
+msgid "Price Item"
+msgstr ""
+
+#: inc/post-type/post-type.php:128
+#@ designinvento
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-type/post-type.php:129
+#: inc/post-type/post-type.php:281
+#@ designinvento
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-type/post-type.php:130
+#: inc/post-type/post-type.php:282
+#@ designinvento
+msgid "New Item"
+msgstr ""
+
+#: inc/post-type/post-type.php:131
+#@ designinvento
+msgid "All Tables"
+msgstr ""
+
+#: inc/post-type/post-type.php:132
+#@ designinvento
+msgid "View Price Item"
+msgstr ""
+
+#: inc/post-type/post-type.php:133
+#@ designinvento
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: inc/post-type/post-type.php:134
+#@ designinvento
+msgid "No Tables found"
+msgstr ""
+
+#: inc/post-type/post-type.php:135
+#@ designinvento
+msgid "No Tables in Trash"
+msgstr ""
+
+#: inc/post-type/post-type.php:155
+#@ designinvento
+msgid "Price Category"
+msgstr ""
+
+#: inc/post-type/post-type.php:161
+#@ designinvento
+msgid "Table name"
+msgstr ""
+
+#: inc/post-type/post-type.php:175
+#: inc/post-type/post-type.php:176
+#@ designinvento
+msgid "Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:178
+#@ designinvento
+msgid "Add New Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:179
+#@ designinvento
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:180
+#@ designinvento
+msgid "New Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:181
+#@ designinvento
+msgid "All Members"
+msgstr ""
+
+#: inc/post-type/post-type.php:182
+#@ designinvento
+msgid "View Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:183
+#@ designinvento
+msgid "Search Member"
+msgstr ""
+
+#: inc/post-type/post-type.php:184
+#@ designinvento
+msgid "No member found"
+msgstr ""
+
+#: inc/post-type/post-type.php:185
+#@ designinvento
+msgid "No member found in Trash"
+msgstr ""
+
+#: inc/post-type/post-type.php:186
+#@ designinvento
+msgid "Team"
+msgstr ""
+
+#: inc/theme_functions.php:224
+#@ designinvento
+msgid "Category"
+msgstr ""
+
+#: inc/post-type/post-type.php:211
+#: inc/post-type/post-type.php:313
+#@ designinvento
+msgid "Image"
+msgstr ""
+
+#: inc/post-type/post-type.php:226
+#: inc/post-type/post-type.php:227
+#@ designinvento
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-type/post-type.php:229
+#@ designinvento
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-type/post-type.php:230
+#@ designinvento
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-type/post-type.php:231
+#@ designinvento
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/post-type/post-type.php:232
+#@ designinvento
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/post-type/post-type.php:233
+#@ designinvento
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/post-type/post-type.php:234
+#@ designinvento
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/post-type/post-type.php:235
+#@ designinvento
+msgid "No testimonial found"
+msgstr ""
+
+#: inc/post-type/post-type.php:236
+#@ designinvento
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: inc/post-type/post-type.php:237
+#@ designinvento
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-type/post-type.php:256
+#@ designinvento
+msgid "Testimonial Category"
+msgstr ""
+
+#: inc/post-type/post-type.php:277
+#@ designinvento
+msgid "Our Partners"
+msgstr ""
+
+#: inc/post-type/post-type.php:278
+#@ designinvento
+msgid "Partner"
+msgstr ""
+
+#: inc/post-type/post-type.php:280
+#@ designinvento
+msgid "Add New Partner"
+msgstr ""
+
+#: inc/post-type/post-type.php:283
+#@ designinvento
+msgid "All Partners"
+msgstr ""
+
+#: inc/post-type/post-type.php:284
+#@ designinvento
+msgid "View Partner"
+msgstr ""
+
+#: inc/post-type/post-type.php:285
+#@ designinvento
+msgid "Search Partners"
+msgstr ""
+
+#: inc/post-type/post-type.php:286
+#@ designinvento
+msgid "No Partner found"
+msgstr ""
+
+#: inc/post-type/post-type.php:287
+#@ designinvento
+msgid "No partner in Trash"
+msgstr ""
+
+#: inc/post-type/post-type.php:288
+#: inc/post-type/post-type.php:314
+#@ designinvento
+msgid "Partners"
+msgstr ""
+
+#: inc/shortcode/shortcode.php:44
+#@ designinvento
+msgid "Select Shortcode"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:965
+#@ designinvento
+msgid "Choose Slider"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1473
+#@ designinvento
+msgid "Show All"
+msgstr ""
+
+#: inc/theme_functions.php:234
+#@ designinvento
+msgid "Tag"
+msgstr ""
+
+#: inc/theme_functions.php:238
+#@ designinvento
+msgid "Nothing Found!"
+msgstr ""
+
+#: inc/theme_functions.php:243
+#@ designinvento
+msgid "Author: "
+msgstr ""
+
+#: inc/theme_functions.php:248
+#@ designinvento
+msgid "Daily Archives"
+msgstr ""
+
+#: inc/theme_functions.php:250
+#@ designinvento
+msgid "Monthly Archives"
+msgstr ""
+
+#: inc/theme_functions.php:252
+#@ designinvento
+msgid "Yearly Archives"
+msgstr ""
+
+#: inc/theme_functions.php:254
+#@ designinvento
+msgid "Blog Archives"
+msgstr ""
+
+#: inc/theme_functions.php:259
+#@ designinvento
+msgid "Search results for"
+msgstr ""
+
+#: inc/theme_functions.php:294
+#, php-format
+#@ designinvento
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme_functions.php:588
+#@ designinvento
+msgid "&laquo;"
+msgstr ""
+
+#: inc/theme_functions.php:589
+#@ designinvento
+msgid "&raquo;"
+msgstr ""
+
+#: inc/theme_functions.php:609
+#@ designinvento
+msgid "No more posts"
+msgstr ""
+
+#: inc/theme_functions.php:610
+#@ designinvento
+msgid "Loading posts ..."
+msgstr ""
+
+#: inc/theme_functions.php:611
+#@ designinvento
+msgid "Load More Items"
+msgstr ""
+
+#: inc/theme_functions.php:628
+#@ designinvento
+msgid "No comment"
+msgstr ""
+
+#: inc/theme_functions.php:630
+#@ designinvento
+msgid "One comment"
+msgstr ""
+
+#: inc/theme_functions.php:632
+#@ designinvento
+msgid "comments"
+msgstr ""
+
+#: inc/theme_functions.php:654
+#, php-format
+#@ designinvento
+msgid "%1$s"
+msgstr ""
+
+#: inc/theme_functions.php:689
+#@ designinvento
+msgid "Email"
+msgstr ""
+
+#: inc/theme_functions.php:757
+#@ designinvento
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: inc/theme_functions.php:772
+#@ designinvento
+msgid "Related portfolio items"
+msgstr ""
+
+#: inc/widget/contact_widget.php:27
+#: inc/widget/dribbble_widget.php:19
+#: inc/widget/flickr_widget.php:20
+#: inc/widget/recent_posts_widget.php:120
+#@ designinvento
+msgid "Title:"
+msgstr ""
+
+#: inc/widget/flickr_widget.php:29
+#@ designinvento
+msgid "Flickr user ID:"
+msgstr ""
+
+#: inc/widget/flickr_widget.php:36
+#@ designinvento
+msgid "How many pictures display:"
+msgstr ""
+
+#: functions.php:169
+#@ designinvento
+msgid "Footer sidebar "
+msgstr ""
+
+#: functions.php:171
+#@ designinvento
+msgid "The footer sidebar widget area"
+msgstr ""
+
+#: functions.php:244
+#@ designinvento
+msgid "Type and hit enter"
+msgstr ""
+
+#: search.php:10
+#@ designinvento
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: inc/post-format.php:104
+#@ designinvento
+msgid "Gallery Settings"
+msgstr ""
+
+#: inc/post-type/post-options.php:85
+#@ designinvento
+msgid "Header type ?"
+msgstr ""
+
+#: inc/post-type/post-options.php:92
+#@ designinvento
+msgid "Select Slideshow"
+msgstr ""
+
+#: inc/post-type/post-options.php:102
+#: inc/post-type/post-options.php:194
+#@ designinvento
+msgid "Background image of page title"
+msgstr ""
+
+#: inc/post-type/post-options.php:107
+#@ designinvento
+msgid "Google Map"
+msgstr ""
+
+#: inc/post-type/post-options.php:287
+#: inc/post-type/post-options.php:288
+#@ designinvento
+msgid "Google Plus url"
+msgstr ""
+
+#: inc/theme_functions.php:651
+#: loop.php:69
+#: single.php:57
+#@ designinvento
+msgid "By"
+msgstr ""
+
+#: inc/theme_functions.php:744
+#@ designinvento
+msgid "Written by "
+msgstr ""
+
+#: inc/widget/dribbble_widget.php:21
+#@ designinvento
+msgid "dribbble user ID:"
+msgstr ""
+
+#: inc/widget/dribbble_widget.php:28
+#@ designinvento
+msgid "How many dribbble display:"
+msgstr ""
+
+#: 404.php:9
+#: inc/widget/dribbble_widget.php:69
+#@ designinvento
+msgid "Error"
+msgstr ""
+
+#: inc/post-type/post-options.php:118
+#: header.php:57
+#@ designinvento
+msgid "Menu"
+msgstr ""
+
+#: single-jw_cause.php:35
+#@ designinvento
+msgid "Project Description"
+msgstr ""
+
+#: 404.php:9
+#@ designinvento
+msgid "404"
+msgstr ""
+
+#: 404.php:10
+#@ designinvento
+msgid "Oops! We couldn’t find it ..."
+msgstr ""
+
+#: 404.php:20
+#@ designinvento
+msgid "Go to Home Page"
+msgstr ""
+
+#: comments.php:45
+#@ designinvento
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+#@ designinvento
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:292
+#@ designinvento
+msgid "Edit Chart"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:297
+#@ designinvento
+msgid "Edit Icon"
+msgstr ""
+
+#: inc/pagebuilder/pagebuilder.php:534
+#@ designinvento
+msgid "Add Container"
+msgstr ""
+
+#: inc/post-type/post-options.php:17
+#@ designinvento
+msgid "January"
+msgstr ""
+
+#: inc/post-type/post-options.php:17
+#@ designinvento
+msgid "February"
+msgstr ""
+
+#: inc/post-type/post-options.php:17
+#@ designinvento
+msgid "March"
+msgstr ""
+
+#: inc/post-type/post-options.php:18
+#@ designinvento
+msgid "April"
+msgstr ""
+
+#: inc/post-type/post-options.php:18
+#@ designinvento
+msgid "May"
+msgstr ""
+
+#: inc/post-type/post-options.php:18
+#@ designinvento
+msgid "June"
+msgstr ""
+
+#: inc/post-type/post-options.php:19
+#@ designinvento
+msgid "July"
+msgstr ""
+
+#: inc/post-type/post-options.php:19
+#@ designinvento
+msgid "August"
+msgstr ""
+
+#: inc/post-type/post-options.php:19
+#@ designinvento
+msgid "Septempber"
+msgstr ""
+
+#: inc/post-type/post-options.php:20
+#@ designinvento
+msgid "October"
+msgstr ""
+
+#: inc/post-type/post-options.php:20
+#@ designinvento
+msgid "November"
+msgstr ""
+
+#: inc/post-type/post-options.php:20
+#@ designinvento
+msgid "December"
+msgstr ""
+
+#: inc/post-type/post-options.php:126
+#@ designinvento
+msgid "Years"
+msgstr ""
+
+#: inc/post-type/post-options.php:134
+#@ designinvento
+msgid "Months"
+msgstr ""
+
+#: inc/post-type/post-options.php:142
+#@ designinvento
+msgid "Days"
+msgstr ""
+
+#: inc/post-type/post-options.php:150
+#@ designinvento
+msgid "Hours"
+msgstr ""
+
+#: inc/post-type/post-options.php:158
+#@ designinvento
+msgid "Your Feedburner Title"
+msgstr ""
+
+#: inc/post-type/post-options.php:159
+#@ designinvento
+msgid "If empty, Subscribe form none"
+msgstr ""
+
+#: inc/post-type/post-options.php:277
+#@ designinvento
+msgid "Background color"
+msgstr ""
+
+#: inc/post-type/post-options.php:278
+#@ designinvento
+msgid "Choose color"
+msgstr ""
+
+#: inc/post-type/post-options.php:321
+#@ designinvento
+msgid "Color"
+msgstr ""
+
+#: inc/post-type/post-options.php:340
+#@ designinvento
+msgid "month"
+msgstr ""
+
+#: inc/post-type/post-options.php:368
+#@ designinvento
+msgid "ComingSoon page settings"
+msgstr ""
+
+#: inc/post-type/post-type.php:205
+#@ designinvento
+msgid "Team Category"
+msgstr ""
+
+#: inc/post-type/post-type.php:307
+#@ designinvento
+msgid "Partner Category"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1208
+#@ designinvento
+msgid "Due to Twitter API changed you must insert Twitter APP. Check Our theme Options there you have Option for FB Twitter API, insert the Keys One Time"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1323
+#: inc/shortcode/shortcode_render.php:1359
+#@ designinvento
+msgid "Follow Us"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1965
+#@ designinvento
+msgid "DAYS"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1970
+#@ designinvento
+msgid "HOURS"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1975
+#@ designinvento
+msgid "MINUTES"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1980
+#@ designinvento
+msgid "SECONDS"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1986
+#@ designinvento
+msgid "Your email here"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1987
+#@ designinvento
+msgid "SUBSCRIBE NOW"
+msgstr ""
+
+#: inc/theme_functions.php:336
+#@ designinvento
+msgid "View Large"
+msgstr ""
+
+#: inc/widget/recent_posts_widget.php:72
+#@ designinvento
+msgid "Posted "
+msgstr ""
+
+#: inc/widget/recent_posts_widget.php:74
+#@ designinvento
+msgid "By "
+msgstr ""
+
+#: loop.php:9
+#@ designinvento
+msgid "Continue Reading"
+msgstr ""
+
+#: loop.php:68
+#: single.php:56
+#@ designinvento
+msgid "Posted On"
+msgstr ""
+
+#: loop.php:70
+#: single.php:58
+#@ designinvento
+msgid "In"
+msgstr ""
+
+#: single-jw_cause.php:46
+#@ default
+msgid "Favorites"
+msgstr ""
+
+#: single-jw_cause.php:36
+#@ designinvento
+msgid "LIVE PREVIEW"
+msgstr ""
+
+#: single.php:70
+#@ designinvento
+msgid "Post Tags - "
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:179
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/post-type/metaboxes.php:245
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: inc/post-type/metaboxes.php:248
+#@ designinvento
+msgid "Default"
+msgstr ""
+
+#: inc/post-type/post-options.php:229
+#@ designinvento
+msgid "Show light box?"
+msgstr ""
+
+#: inc/post-type/post-options.php:230
+#@ designinvento
+msgid "It works when featured image is selected."
+msgstr ""
+
+#: inc/post-type/post-options.php:237
+#@ designinvento
+msgid "Pretty Video URL"
+msgstr ""
+
+#: inc/post-type/post-options.php:331
+#@ designinvento
+msgid "Sub Price"
+msgstr ""
+
+#: inc/post-type/post-options.php:332
+#@ designinvento
+msgid "Please insert value."
+msgstr ""
+
+#: inc/post-type/post-options.php:334
+#@ designinvento
+msgid ".00"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1221
+#@ designinvento
+msgid "You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target=\"_blank\">here</a>!"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1275
+#@ designinvento
+msgid "right now"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1278
+#@ designinvento
+msgid " seconds ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1281
+#@ designinvento
+msgid "about 1 minute ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1284
+#@ designinvento
+msgid " minutes ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1287
+#@ designinvento
+msgid "about 1 hour ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1290
+#@ designinvento
+msgid " hours ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1293
+#@ designinvento
+msgid "yesterday"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1296
+#@ designinvento
+msgid " days ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:1298
+#@ designinvento
+msgid "over a year ago"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:2024
+#@ designinvento
+msgid "Before"
+msgstr ""
+
+#: inc/shortcode/shortcode_render.php:2025
+#@ designinvento
+msgid "After"
+msgstr ""
+
+#: inc/widget/contact_widget.php:31
+#@ designinvento
+msgid "Address 1:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:35
+#@ designinvento
+msgid "Address 2:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:39
+#@ designinvento
+msgid "Phone number:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:43
+#@ designinvento
+msgid "Email:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:47
+#@ designinvento
+msgid "Email link url:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:51
+#@ designinvento
+msgid "Web:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:55
+#@ designinvento
+msgid "Web link url:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:59
+#@ designinvento
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widget/contact_widget.php:63
+#@ designinvento
+msgid "Facebook link url:"
+msgstr ""
+
+#: woocommerce/jw_woocommerce.php:81
+#@ woocommerce
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocommerce/jw_woocommerce.php:158
+#@ designinvento
+msgid "Select options"
+msgstr ""
+
